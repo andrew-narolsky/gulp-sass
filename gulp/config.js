@@ -9,4 +9,5 @@ module.exports = [
   './gulp/tasks/serve',
   './gulp/tasks/svg',
   './gulp/tasks/build',
+  './gulp/tasks/critical',
 ];
