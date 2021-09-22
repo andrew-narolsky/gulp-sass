@@ -10,6 +10,8 @@ module.exports = function () {
                     base: 'build/',
                     inline: true,
                     css: ['build/css/style.min.css'],
+                    width: 1300,
+                    height: 900,
                 })
             )
             .on('error', err => {
